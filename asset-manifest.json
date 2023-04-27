@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Calendar-React/static/css/main.93a0497a.css",
+    "main.js": "/Calendar-React/static/js/main.3504681a.js",
+    "static/js/787.f4b9e84d.chunk.js": "/Calendar-React/static/js/787.f4b9e84d.chunk.js",
+    "static/media/Roboto-Light.ttf": "/Calendar-React/static/media/Roboto-Light.333da16a3f3cc391d087.ttf",
+    "static/media/Montserrat-Thin.ttf": "/Calendar-React/static/media/Montserrat-Thin.1728a6d0eb6ac2caea47.ttf",
+    "index.html": "/Calendar-React/index.html",
+    "main.93a0497a.css.map": "/Calendar-React/static/css/main.93a0497a.css.map",
+    "main.3504681a.js.map": "/Calendar-React/static/js/main.3504681a.js.map",
+    "787.f4b9e84d.chunk.js.map": "/Calendar-React/static/js/787.f4b9e84d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93a0497a.css",
+    "static/js/main.3504681a.js"
+  ]
+}
